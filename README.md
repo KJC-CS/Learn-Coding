@@ -1,6 +1,6 @@
 # C and Java Programming for Beginners
 
-This GitHub organization is dedicated to teaching the basics of C and Java programming languages to all the learners out there. C and Java are two of the most popular and widely used programming languages in the world. They have many similarities and differences, and each one has its own advantages and disadvantages.
+This GitHub repository is dedicated to teaching the basics of C and Java programming languages to all the learners out there. C and Java are two of the most popular and widely used programming languages in the world. They have many similarities and differences, and each one has its own advantages and disadvantages.
 
 ## What is C?
 
@@ -36,4 +36,13 @@ int main()
     printf("Hello, World!\n");
     return 0;
 }
+```
 
+```Java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```

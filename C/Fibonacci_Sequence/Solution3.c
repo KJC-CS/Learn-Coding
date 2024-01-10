@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <conio.h>
+// #include <conio.h>
 
 int main()
 {
-  clrscr();
+  // clrscr();
 
   int n;
   printf("Enter the number of terms: ");
@@ -27,7 +27,7 @@ int main()
     printf(", %d", next);
   }
 
-  getch();
+  // getch();
 
   return 0;
 }
